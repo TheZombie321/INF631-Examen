@@ -1,4 +1,3 @@
-// src/pages/Inicio.jsx
 import React from 'react';
 import Formulario from '../components/Formulario';
 import ListaEstudiantes from '../components/ListaEstudiantes';
